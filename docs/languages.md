@@ -35,7 +35,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `gmq`       | `da`              | North Germanic        | Danish                      |                        |
 | `gmw`       | `nl`              | West Germanic         | Dutch                       |                        |
 | `gmw`       | `en-us`           | West Germanic         | English                     | American               |
-| `gmw`       | `en`              | West Germanic         | English                     | British                |
+| `gmw`       | `en-gb`           | West Germanic         | English                     | British                |
 | `gmw`       | `en-029`          | West Germanic         | English                     | Caribbean              |
 | `gmw`       | `en-gb-x-gbclan`  | West Germanic         | English                     | Lancastrian            |
 | `gmw`       | `en-gb-x-rp`      | West Germanic         | English                     | Received Pronunciation |
